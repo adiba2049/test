@@ -1,0 +1,13 @@
+.homePage{
+    width: 100%;
+    height: 80vh;
+    background-color: #abcd;
+
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: #14df5b;
+    border-radius: 30px;
+}
